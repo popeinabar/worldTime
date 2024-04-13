@@ -1,16 +1,45 @@
-# worldtime
+# World Time App
 
-A new Flutter project.
+Welcome to the World Time App repository! This Flutter application allows users to view the current time of different locations around the world.
+
+## Features
+
+- **World Clock:** Displays the current time of various cities across different time zones.
+- **Time Converter:** Converts the time between different time zones.
+- **User-Friendly Interface:** Clean and intuitive UI design for easy navigation.
+
+## Screenshots
+
+![Screenshot 1](/screenshots/screenshot1.png)
+![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 3](/screenshots/screenshot3.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with the World Time App, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. **Clone the Repository:**
+2. **Navigate to the Project Directory:**
+3. **Install Dependencies:**
+4. **Run the App:**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Contributing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Contributions are welcome! If you'd like to contribute to the World Time App, please follow these guidelines:
+
+- Fork the repository.
+- Create a new branch (`git checkout -b feature/your-feature-name`).
+- Make your changes.
+- Test your changes thoroughly.
+- Commit your changes (`git commit -am 'Add new feature'`).
+- Push to the branch (`git push origin feature/your-feature-name`).
+- Create a new Pull Request.
+
+## Credits
+
+This app was created with Flutter, a UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+
+
+## Contact
+
+If you have any questions or suggestions regarding the World Time App, feel free to contact us at [itsayushraj03@gmail.com].
